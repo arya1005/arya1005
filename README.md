@@ -21,13 +21,13 @@ I am a passionate **AI Enthusiast** currently pursuing an **M.Tech in Artificial
 
 ---
 
-### ** Intern | Machine Learning Developer Dec,2023- April, 2024 (Kintu Design) **  
+### Intern | Machine Learning Developer Dec,2023- April, 2024 (Kintu Design)  
 - Worked on model building using various types of  **Supervised Learning Algorithms(Eg: Decision Trees, Random Forest etc).**.  
 - Python with Pandas and NumPy for data cleaning and preprocessing.
 - TensorFlow for building and training predictive models.
 - Matplotlib and Seaborn for data visualization
 
-### ** Intern | Machine Learning Intern May,2023- June, 2023 (Raven Technolabs) **  
+### Intern | Machine Learning Intern May,2023- June, 2023 (Raven Technolabs) 
 - Programming Languages :   **Python**.  
 - Machine Learning Libraries: **TensorFlow, Keras**
 - Modeling Techniques: **traditional ML (Logistic Regression, Decision Trees).**
