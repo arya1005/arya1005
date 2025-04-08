@@ -54,7 +54,7 @@ I am a passionate **AI Enthusiast** currently pursuing an **M.Tech in Artificial
 ---
 
 ## 📞 Connect with Me  
-📍 **LinkedIn:** [Megha Bharti](https://www.linkedin.com/in/arya-patel-48594a204/)   
-📍 **GitHub:** [Arya Patel](https://github.com/arya1005)    
+📍 **LinkedIn:** [Arya LinkedIn](https://www.linkedin.com/in/arya-patel-48594a204/)   
+📍 **GitHub:** [Arya GitHub](https://github.com/arya1005)    
 
 🚀 **Excited about AI-driven innovation! Let’s connect and build the future!**  
