@@ -37,7 +37,7 @@ I am a passionate **AI Enthusiast** currently pursuing an **M.Tech in Artificial
 ## 🏆 Achievements  
 - **GATE CS Qualified (2024)**
 - **GATE Score (537)**
-- **AIR (4127) of(123967)**
+- **AIR (4127) of (123967)**
 
 ---
 
